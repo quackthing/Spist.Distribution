@@ -1,0 +1,10 @@
+
+
+{
+    "availableModVersion": "0.1.0",
+    "availableClientVersion": "0.1.0",
+    "dotnetRuntimeDownloadUrl": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.36/windowsdesktop-runtime-6.0.36-win-x64.exe",
+    "melonLoaderDownloadUrl": "https://nightly.link/LavaGang/MelonLoader/workflows/build/master/MelonLoader.Windows.x64.CI.Release.zip",
+    "il2CppDownloadUrl": "https://github.com/SamboyCoding/Cpp2IL/releases/download/2022.1.0-pre-release.21/Cpp2IL-2022.1.0-pre-release.21-Windows.exe"
+}
+
