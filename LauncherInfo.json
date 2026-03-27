@@ -1,5 +1,3 @@
-
-
 {
     "AvailableModVersion": "0.1.0",
     "AvailableClientVersion": "0.1.0",
@@ -7,4 +5,3 @@
     "MelonLoaderDownloadUrl": "https://nightly.link/LavaGang/MelonLoader/workflows/build/master/MelonLoader.Windows.x64.CI.Release.zip",
     "Cpp2IlDownloadUrl": "https://github.com/SamboyCoding/Cpp2IL/releases/download/2022.1.0-pre-release.21/Cpp2IL-2022.1.0-pre-release.21-Windows.exe"
 }
-
